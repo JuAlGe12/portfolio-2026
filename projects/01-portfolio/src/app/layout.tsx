@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tu Nombre — Software Architect & AI Engineer",
+  title: "Carlos Julián Albín Gener — Software Architect & AI Engineer",
   description:
     "Portafolio de sistemas de producción: IA agéntica, arquitectura event-driven y edge computing.",
 };
